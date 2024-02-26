@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Web <span style="color: black;">
 
-![Sua Foto]()
+![Sua Foto](https://raw.githubusercontent.com/ljonys/Curriculo/main/Foto.jpg)
 
 ---
 
