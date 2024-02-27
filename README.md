@@ -1,5 +1,5 @@
 <p align="center">
- ## <b>João Pedro Eiras</b>
+  <span style="font-size: 20px;">Texto Maior</span>
 </p>
 
 ## Desenvolvedor Web <span style="color: black;">
