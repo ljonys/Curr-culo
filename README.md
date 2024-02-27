@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b>Desenvolvedor Web</b>
+  <span style="color: blue;">Desenvolvedor Web</span>
 </p>
 
 <div align="center">
