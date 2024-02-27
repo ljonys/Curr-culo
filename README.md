@@ -13,7 +13,7 @@
 
 ---
 
- # <span style="color: blue;">Sobre Mim</span> <img src="user-on-round-button_icon-icons.com_68280.png" alt="Texto alternativo" width="20" height="20" />
+ # <span style="color: blue;">Sobre Mim</span> <img src="user-on-round-button_icon-icons.com_68280.png" alt="Texto alternativo" width="50" height="50" />
 
 
 
