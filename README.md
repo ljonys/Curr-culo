@@ -1,7 +1,6 @@
-<p align="center">
+<div align="center">
   <h1>Texto Grande</h1>
-</p>
-
+</div>
 
 ## Desenvolvedor Web <span style="color: black;">
 
