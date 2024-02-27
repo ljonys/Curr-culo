@@ -30,7 +30,7 @@ Sou um aluno de Ciência da Computação de 17 anos, gosto muito de jogos e esto
 
 ## Contato <span style="color: black;">
 
-- <img src="![vecteezy_gmail-png-icone_16716465](file:///C:/Users/joaop/Downloads/vecteezy_gmail-png-icone_16716465.png)" alt="Texto alternativo" width="100" height="100" />**E-mail:** jonys33yu@gmail.com
+- <img src="![vecteezy_gmail-png-icone_16716465](![vecteezy_gmail-png-icone_16716465](https://github.com/ljonys/Curriculo/assets/161311108/ca7d0d7e-47ba-428e-88f0-6884fc092571))" alt="Texto alternativo" width="100" height="100" />**E-mail:** jonys33yu@gmail.com
 - **Instagram:** [Seu Perfil no Instagram](https://www.instagram.com/joaopedroeirass/)
 - **GitHub:** [Seu Perfil no GitHub](https://github.com/ljonys)
 
