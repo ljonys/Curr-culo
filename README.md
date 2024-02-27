@@ -1,4 +1,6 @@
-# João Pedro Eiras <span style="color: black;">
+<p align="center">
+  <b>João Pedro Eiras</b>
+</p>
 
 ## Desenvolvedor Web <span style="color: black;">
 
