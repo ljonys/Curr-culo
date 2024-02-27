@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <span style="color: blue;">Desenvolvedor Web</span>
+  <span style="color: blue;">Desenvolvedor Web</span> <img src="trabalhador-de-computador-em-vista-frontal.png" alt="Texto alternativo" width="26" height="26" />
 </p>
 
 <div align="center">
