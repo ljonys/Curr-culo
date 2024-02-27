@@ -13,7 +13,7 @@
 
 ---
 
-<span style="color: blue;">Sobre Mim</span>
+<span style="font-size: 24px; color: blue;">Sobre Mim:</span>
 
 
 Sou um aluno de Ciência da Computação de 17 anos, gosto muito de jogos e estou em busca de começar a aprender a desenvolvê-los, além disso gosto de buscar novas experiências.
