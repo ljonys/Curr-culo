@@ -2,7 +2,10 @@
   <h1>Currículo- João Pedro Eiras</h1>
 </div>
 
-## Desenvolvedor Web <span style="color: black;">
+<p align="center">
+  <b>Desenvolvedor Web</b>
+</p>
+
 
 ![Foto](https://github.com/ljonys/Curriculo/assets/161311108/b5742d28-5336-4731-8344-a8d1971566d2)
 
