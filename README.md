@@ -12,7 +12,6 @@
 
 
 ---
-
  # <span style="color: blue;">Sobre Mim</span>
 
 
