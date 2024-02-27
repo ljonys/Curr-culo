@@ -30,7 +30,7 @@ Sou um aluno de Ciência da Computação de 17 anos, gosto muito de jogos e esto
 
 ## Contato <span style="color: black;">
 
-- **E-mail:** jonys33yu@gmail.com
+- ![Logo](![vecteezy_gmail-png-icone_16716465](https://github.com/ljonys/Curriculo/assets/161311108/b24fb364-8712-4374-90bc-60454d3ad5dc)**E-mail:** jonys33yu@gmail.com
 - **Instagram:** [Seu Perfil no Instagram](https://www.instagram.com/joaopedroeirass/)
 - **GitHub:** [Seu Perfil no GitHub](https://github.com/ljonys)
 
