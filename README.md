@@ -1,5 +1,5 @@
 <p align="center">
-  <span style="font-size: 200px;">João Pedro Eiras</span>
+  <span style="font-size: 200 px;">João Pedro Eiras</span>
 </p>
 
 ## Desenvolvedor Web <span style="color: black;">
