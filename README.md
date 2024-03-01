@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ljonys/Curriculo/assets/161311108/b5742d28-5336-4731-8344-a8d1971566d2" alt="Texto alternativo" style="border-radius: 50%; width: 180px; height: 180px;" />
+  <img src="Foto.jpg" alt="Texto alternativo" style="border-radius: 50%; width: 180px; height: 180px;" />
 </div>
 
 
